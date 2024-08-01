@@ -2,7 +2,7 @@
 
 meu nome e Dominique
 
-- Estou estudando na alura[alura](https://www.alura.com.br)
+- Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javasScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
