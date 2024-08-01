@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🖤
 
-<!--
-**nsilvw/nsilvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Dominique
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem javasScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo📫
+  
+- d.segobio@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/NcuQOzH8pHUAAAAC/oriente-be-oriented.gif)
+https://media1.tenor.com/m/NcuQOzH8pHUAAAAC/oriente-be-oriented.gif
